@@ -1,0 +1,17 @@
+{
+  "name": "tplhk-cli",
+  "version": "1.0.5",
+  "description": "tpl x project",
+  "main": "index.js",
+  "scripts": {
+    "tpl": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tpl": "./index.js"
+  },
+  "keywords": [
+    "前端脚手架"
+  ],
+  "author": "tecshuttle",
+  "license": "ISC"
+}
