@@ -1,6 +1,6 @@
 {
   "name": "tplhk-cli",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "tpl x project",
   "main": "index.js",
   "scripts": {
