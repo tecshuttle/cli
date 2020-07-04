@@ -1,13 +1,13 @@
 
 这是一个前端脚手架项目。
 
-目前功能很简单，仅有一个命令`tpl -v`。
-
 ### 使用方法
 ```bash
-$ npm i tplhk-cli -g
-$ tpl -v
-  version is 0.0.1
+$ npm install tplhk-cli -g # 安装
+$ npm update tplhk-cli -g  # 更新
+$ tpl -v                   # 显示当前版本
+  version is 0.0.2
+$ tpl create project_name  # 创建项目
 ```
 
 ### 开发计划
