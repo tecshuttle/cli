@@ -13,5 +13,9 @@
     "前端脚手架"
   ],
   "author": "tecshuttle",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "inquirer": "^7.3.0"
+  }
 }
